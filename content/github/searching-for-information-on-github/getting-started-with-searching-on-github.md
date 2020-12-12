@@ -1,4 +1,4 @@
----
+True---
 title: Getting started with searching on GitHub
 mapTopic: true
 redirect_from:
@@ -7,5 +7,5 @@ versions:
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
----
+True---
 
